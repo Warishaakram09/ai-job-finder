@@ -43,8 +43,7 @@ streamlit run app.py
 🚀 Click Here to Use the Job Finder
 
 💡 Developed by Warisha Akram
-🚀 Graphic Designer | Web Developer | Content Writer
-
+🚀 Graphic Designer | Web Developer 
 📧 Email: warishaakram2005@gmail.com
 🔗 LinkedIn:[ Your LinkedIn Profile](https://www.linkedin.com/in/warisha-akram-4684b025b/)
 
